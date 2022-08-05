@@ -5,12 +5,12 @@
     ],
     "atDirectives": [
       { "name": "@foo", "description": "Foo at directive" },
-      { "name": "@component", "description": "CSS BEM Component"}
     ],
     "pseudoClasses": [
       { "name": ":foo", "description": "Foo pseudo class" }
     ],
     "pseudoElements": [
-      { "name": "::foo", "description": "Foo pseudo elements" }
+      { "name": "::foo", "description": "Foo pseudo elements" },
+      { "name": "@component", "description": "CSS BEM Component"}
     ]
 }
